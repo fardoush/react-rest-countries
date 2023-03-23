@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #575fcf;
+    height: 70px;
+    gap: 20px;
+}
+.nav-item {
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+}
