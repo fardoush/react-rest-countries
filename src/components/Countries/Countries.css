@@ -1,0 +1,11 @@
+
+h1{
+    padding:30px;
+}
+
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:10px;
+    
+}

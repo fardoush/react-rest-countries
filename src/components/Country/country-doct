@@ -1,0 +1,10 @@
+       <div className='country'>
+            <h2 className="">Country Name : {props.name}</h2> 
+            <p className="">Population: {props.population}</p>
+            <p className="">Area: {props.area}</p> 
+ 
+             <h2 className="">Country Name : {props.country.name.common}</h2> 
+            <p className="">Population: {props.country.population}</p>
+            <p className="">Area: {props.country.area}</p>
+             
+ </div>
